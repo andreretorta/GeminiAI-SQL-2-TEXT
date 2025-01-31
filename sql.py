@@ -16,6 +16,7 @@ cursor.execute('''
     )
 ''')
 
+
 # Insert 20 records into the student table
 students = [
     (1, 'Alice', 'Mathematics', '10', 'A', 95),
