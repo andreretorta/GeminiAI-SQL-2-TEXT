@@ -42,6 +42,9 @@ students = [
 ]
 
 
+
+
+
 cursor.executemany('''
     INSERT INTO student (id, name, subject, class, grade, marks)
     VALUES (?, ?, ?, ?, ?, ?)

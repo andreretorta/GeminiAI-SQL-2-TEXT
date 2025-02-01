@@ -3,3 +3,4 @@ google-genrativeai
 python-dotenv
 pandas
 numpy
+matplotlib
