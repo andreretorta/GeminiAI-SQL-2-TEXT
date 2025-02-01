@@ -41,6 +41,7 @@ students = [
     (20, 'Tina', 'Geography', '11', 'A', 95)
 ]
 
+
 cursor.executemany('''
     INSERT INTO student (id, name, subject, class, grade, marks)
     VALUES (?, ?, ?, ?, ?, ?)

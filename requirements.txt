@@ -2,3 +2,4 @@ streamlit
 google-genrativeai
 python-dotenv
 pandas
+numpy

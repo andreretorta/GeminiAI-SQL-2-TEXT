@@ -30,7 +30,6 @@ def read_sql_query(sql,db):
         print(row)
     return rows
 
-
 # Example usage
 prompt = (
     "You are an expert SQL query writer. Given a question about a student database table with the following columns: "
